@@ -1,0 +1,14 @@
+{
+    "model": "RandomForest",
+    "number_of_genes": 500,
+    "random_state": 42,
+    "cv_folds": 5,
+    "training_samples": 66,
+    "testing_samples": 16,
+    "training_patients": 33,
+    "testing_patients": 8,
+    "cv_mean_roc_auc": 0.9673469387755101,
+    "cv_mean_f1": 0.8638461538461538,
+    "test_roc_auc": 1.0,
+    "test_f1": 1.0
+}

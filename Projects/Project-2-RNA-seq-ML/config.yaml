@@ -1,0 +1,20 @@
+project: "Project-2-RNA-seq-ML"
+
+threads:
+  default: 4
+  ml: 8
+
+paths:
+  raw_counts: "data/raw/GSE233242_raw_counts_GRCh38.p13_NCBI.tsv.gz"
+  series_matrix: "data/raw/GSE233242_series_matrix.txt.gz"
+
+  filtered_counts: "data/processed/filtered_counts.tsv"
+  log_cpm: "data/processed/log_cpm.tsv"
+  paired_log_cpm: "data/processed/paired_log_cpm.tsv"
+
+  ml_metadata: "data/processed/ml_metadata.tsv"
+  paired_metadata: "data/processed/paired_metadata.tsv"
+
+results:
+  ml: "results/ml"
+  pathways: "results/pathways"

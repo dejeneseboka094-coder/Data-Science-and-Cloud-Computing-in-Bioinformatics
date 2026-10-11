@@ -1,0 +1,20 @@
+GeneID	Symbol	Description	Chromosome	MapLocation	Organism	consensus_rank	importance
+55248	PACC1	proton activated chloride channel 1	1	1q32.3	Homo sapiens	1	0.0247388925480354
+126374	WTIP	WT1 interacting protein	19	19q13.11	Homo sapiens	2	0.0221781436895247
+762	CA4	carbonic anhydrase 4	17	17q23.1	Homo sapiens	3	0.0213473679348294
+51176	LEF1	lymphoid enhancer binding factor 1	4	4q25	Homo sapiens	4	0.0195645583450608
+94274	PPP1R14A	protein phosphatase 1 regulatory inhibitor subunit 14A	19	19q13.2	Homo sapiens	5	0.0183906962276229
+100532742		PIR-FIGF readthrough	X	Xp22.2	Homo sapiens	6	0.0172055682777414
+25802	LMOD1	leiomodin 1	1	1q32.1	Homo sapiens	7	0.0166862680355325
+5831	PYCR1	pyrroline-5-carboxylate reductase 1	17	17q25.3	Homo sapiens	8	0.0157924777426352
+256949	KANK3	KN motif and ankyrin repeat domains 3	19	19p13.2	Homo sapiens	9	0.0144107570923317
+11320	MGAT4A	alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A	2	2q11.2	Homo sapiens	10	0.0132076815307007
+2934	GSN	gelsolin	9	9q33.2	Homo sapiens	11	0.0129945316845166
+257364	SNX33	sorting nexin 33	15	15q24.2	Homo sapiens	12	0.0128426221914663
+26153	KIF26A	kinesin family member 26A	14	14q32.33	Homo sapiens	13	0.0124701387378762
+55083	KIF26B	kinesin family member 26B	1	1q44	Homo sapiens	14	0.0122918473178908
+222698	NKAPL	NFKB activating protein like	6	6p22.1	Homo sapiens	15	0.012028500092283
+57469	PNMA8B	PNMA family member 8B	19	19q13.32	Homo sapiens	16	0.0112894148981143
+117	ADCYAP1R1	ADCYAP receptor type I	7	7p14.3	Homo sapiens	17	0.0111989757521491
+129642	MBOAT2	membrane bound glycerophospholipid O-acyltransferase 2	2	2p25.1	Homo sapiens	18	0.0110489775417179
+114757	CYGB	cytoglobin	17	17q25.1	Homo sapiens	19	0.010848201210601

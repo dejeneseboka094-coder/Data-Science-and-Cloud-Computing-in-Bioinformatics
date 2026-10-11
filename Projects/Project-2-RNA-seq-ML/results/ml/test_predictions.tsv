@@ -1,0 +1,17 @@
+sample_id	title	class	subtype	patient_id	split	true_class	predicted_class	tumor_probability
+GSM7416119	Normal 5	Normal	Normal	Patient_05	test	Normal	Normal	0.03666666666666667
+GSM7416121	Tumor 5	Tumor	Luminal A	Patient_05	test	Tumor	Tumor	0.8366666666666667
+GSM7416128	Normal 9	Normal	Normal	Patient_09	test	Normal	Normal	0.49333333333333335
+GSM7416129	Tumor 9	Tumor	Luminal A	Patient_09	test	Tumor	Tumor	0.9333333333333333
+GSM7416139	Normal 14	Normal	Normal	Patient_14	test	Normal	Normal	0.0
+GSM7416140	Tumor 14	Tumor	TNBC	Patient_14	test	Tumor	Tumor	0.8433333333333334
+GSM7416154	Normal 21	Normal	Normal	Patient_21	test	Normal	Normal	0.13666666666666666
+GSM7416156	Tumor 21	Tumor	TNBC	Patient_21	test	Tumor	Tumor	0.75
+GSM7416167	Normal 27	Normal	Normal	Patient_27	test	Normal	Normal	0.02
+GSM7416168	Tumor 27	Tumor	Luminal A	Patient_27	test	Tumor	Tumor	0.96
+GSM7416169	Normal 28	Normal	Normal	Patient_28	test	Normal	Normal	0.03333333333333333
+GSM7416171	Tumor 28	Tumor	Luminal A	Patient_28	test	Tumor	Tumor	0.9466666666666667
+GSM7416202	Normal 42	Normal	Normal	Patient_42	test	Normal	Normal	0.0033333333333333335
+GSM7416203	Tumor 42	Tumor	Luminal A	Patient_42	test	Tumor	Tumor	0.9566666666666667
+GSM7416204	Normal 43	Normal	Normal	Patient_43	test	Normal	Normal	0.0033333333333333335
+GSM7416205	Tumor 43	Tumor	Luminal A	Patient_43	test	Tumor	Tumor	0.7833333333333333

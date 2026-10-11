@@ -1,0 +1,83 @@
+sample_id	title	class	subtype	patient_id	split
+GSM7416111	Normal 1	Normal	Normal	Patient_01	train
+GSM7416112	Tumor 1	Tumor	TNBC	Patient_01	train
+GSM7416113	Normal 2	Normal	Normal	Patient_02	train
+GSM7416114	Tumor 2	Tumor	Luminal A	Patient_02	train
+GSM7416115	Normal 3	Normal	Normal	Patient_03	train
+GSM7416116	Tumor 3	Tumor	Luminal A	Patient_03	train
+GSM7416117	Normal 4	Normal	Normal	Patient_04	train
+GSM7416118	Tumor 4	Tumor	Luminal A	Patient_04	train
+GSM7416119	Normal 5	Normal	Normal	Patient_05	test
+GSM7416121	Tumor 5	Tumor	Luminal A	Patient_05	test
+GSM7416122	Normal 6	Normal	Normal	Patient_06	train
+GSM7416123	Tumor 6	Tumor	TNBC	Patient_06	train
+GSM7416124	Normal 7	Normal	Normal	Patient_07	train
+GSM7416125	Tumor 7	Tumor	Luminal A	Patient_07	train
+GSM7416126	Normal 8	Normal	Normal	Patient_08	train
+GSM7416127	Tumor 8	Tumor	Luminal A	Patient_08	train
+GSM7416128	Normal 9	Normal	Normal	Patient_09	test
+GSM7416129	Tumor 9	Tumor	Luminal A	Patient_09	test
+GSM7416130	Normal 10	Normal	Normal	Patient_10	train
+GSM7416131	Tumor 10	Tumor	Luminal A	Patient_10	train
+GSM7416133	Normal 11	Normal	Normal	Patient_11	train
+GSM7416134	Tumor 11	Tumor	Luminal A	Patient_11	train
+GSM7416135	Normal 12	Normal	Normal	Patient_12	train
+GSM7416136	Tumor 12	Tumor	Luminal A	Patient_12	train
+GSM7416137	Normal 13	Normal	Normal	Patient_13	train
+GSM7416138	Tumor 13	Tumor	TNBC	Patient_13	train
+GSM7416139	Normal 14	Normal	Normal	Patient_14	test
+GSM7416140	Tumor 14	Tumor	TNBC	Patient_14	test
+GSM7416141	Normal 15	Normal	Normal	Patient_15	train
+GSM7416142	Tumor 15	Tumor	Luminal A	Patient_15	train
+GSM7416144	Normal 16	Normal	Normal	Patient_16	train
+GSM7416145	Tumor 16	Tumor	Luminal A	Patient_16	train
+GSM7416146	Normal 17	Normal	Normal	Patient_17	train
+GSM7416147	Tumor 17	Tumor	Luminal A	Patient_17	train
+GSM7416148	Normal 18	Normal	Normal	Patient_18	train
+GSM7416149	Tumor 18	Tumor	HER2	Patient_18	train
+GSM7416152	Normal 20	Normal	Normal	Patient_20	train
+GSM7416153	Tumor 20	Tumor	Luminal B	Patient_20	train
+GSM7416154	Normal 21	Normal	Normal	Patient_21	test
+GSM7416156	Tumor 21	Tumor	TNBC	Patient_21	test
+GSM7416159	Normal 23	Normal	Normal	Patient_23	train
+GSM7416160	Tumor 23	Tumor	Luminal A	Patient_23	train
+GSM7416161	Normal 24	Normal	Normal	Patient_24	train
+GSM7416162	Tumor 24	Tumor	Luminal B	Patient_24	train
+GSM7416163	Normal 25	Normal	Normal	Patient_25	train
+GSM7416164	Tumor 25	Tumor	Luminal B	Patient_25	train
+GSM7416165	Normal 26	Normal	Normal	Patient_26	train
+GSM7416166	Tumor 26	Tumor	TNBC	Patient_26	train
+GSM7416167	Normal 27	Normal	Normal	Patient_27	test
+GSM7416168	Tumor 27	Tumor	Luminal A	Patient_27	test
+GSM7416169	Normal 28	Normal	Normal	Patient_28	test
+GSM7416171	Tumor 28	Tumor	Luminal A	Patient_28	test
+GSM7416172	Normal 29	Normal	Normal	Patient_29	train
+GSM7416173	Tumor 29	Tumor	TNBC	Patient_29	train
+GSM7416174	Normal 30	Normal	Normal	Patient_30	train
+GSM7416175	Tumor 30	Tumor	TNBC	Patient_30	train
+GSM7416176	Normal 31	Normal	Normal	Patient_31	train
+GSM7416177	Tumor 31	Tumor	Luminal A	Patient_31	train
+GSM7416178	Normal 32	Normal	Normal	Patient_32	train
+GSM7416179	Tumor 32	Tumor	Luminal A	Patient_32	train
+GSM7416181	Normal 33	Normal	Normal	Patient_33	train
+GSM7416182	Tumor 33	Tumor	Luminal A	Patient_33	train
+GSM7416183	Normal 34	Normal	Normal	Patient_34	train
+GSM7416184	Tumor 34	Tumor	Luminal A	Patient_34	train
+GSM7416185	Normal 35	Normal	Normal	Patient_35	train
+GSM7416186	Tumor 35	Tumor	Luminal A	Patient_35	train
+GSM7416187	Normal 36	Normal	Normal	Patient_36	train
+GSM7416188	Tumor 36	Tumor	Luminal A	Patient_36	train
+GSM7416189	Normal 37	Normal	Normal	Patient_37	train
+GSM7416191	Tumor 37	Tumor	Luminal A	Patient_37	train
+GSM7416192	Normal 38	Normal	Normal	Patient_38	train
+GSM7416193	Tumor 38	Tumor	Luminal A	Patient_38	train
+GSM7416195	Normal 39	Normal	Normal	Patient_39	train
+GSM7416196	Tumor 39	Tumor	Luminal A	Patient_39	train
+GSM7416197	Normal 40	Normal	Normal	Patient_40	train
+GSM7416198	Tumor 40	Tumor	Luminal A	Patient_40	train
+GSM7416200	Normal 41	Normal	Normal	Patient_41	train
+GSM7416201	Tumor 41	Tumor	Luminal A	Patient_41	train
+GSM7416202	Normal 42	Normal	Normal	Patient_42	test
+GSM7416203	Tumor 42	Tumor	Luminal A	Patient_42	test
+GSM7416204	Normal 43	Normal	Normal	Patient_43	test
+GSM7416205	Tumor 43	Tumor	Luminal A	Patient_43	test

@@ -1,0 +1,21 @@
+Direction	source	native	name	p_value	intersection_size	query_size	term_size	precision	recall
+Tumor-down	GO:BP	GO:0032272	negative regulation of protein polymerization	0.0037151360382078	3	12	69	0.25	0.0434782608695652
+Tumor-down	GO:BP	GO:0030837	negative regulation of actin filament polymerization	0.0037151360382078	3	12	55	0.25	0.0545454545454545
+Tumor-down	GO:BP	GO:0030041	actin filament polymerization	0.0082437777973483	3	12	148	0.25	0.0202702702702702
+Tumor-down	GO:BP	GO:0008064	regulation of actin polymerization or depolymerization	0.0082437777973483	3	12	138	0.25	0.0217391304347826
+Tumor-down	GO:BP	GO:0030832	regulation of actin filament length	0.0082437777973483	3	12	139	0.25	0.0215827338129496
+Tumor-down	GO:BP	GO:0031333	negative regulation of protein-containing complex assembly	0.0082437777973483	3	12	130	0.25	0.023076923076923
+Tumor-down	GO:BP	GO:0051494	negative regulation of cytoskeleton organization	0.0082437777973483	3	12	149	0.25	0.0201342281879194
+Tumor-down	GO:BP	GO:0030833	regulation of actin filament polymerization	0.0082437777973483	3	12	120	0.25	0.025
+Tumor-down	GO:BP	GO:1902904	negative regulation of supramolecular fiber organization	0.0082437777973483	3	12	148	0.25	0.0202702702702702
+Tumor-down	GO:BP	GO:0008154	actin polymerization or depolymerization	0.0121334410716045	3	12	176	0.25	0.0170454545454545
+Tumor-down	GO:BP	GO:0032271	regulation of protein polymerization	0.0131854253702893	3	12	187	0.25	0.0160427807486631
+Tumor-down	GO:BP	GO:0051693	actin filament capping	0.0134148317052306	2	12	37	0.1666666666666666	0.054054054054054
+Tumor-down	GO:BP	GO:0030835	negative regulation of actin filament depolymerization	0.0152221014279214	2	12	41	0.1666666666666666	0.048780487804878
+Tumor-down	GO:BP	GO:0045010	actin nucleation	0.0170454545454545	2	12	55	0.1666666666666666	0.0363636363636363
+Tumor-down	GO:BP	GO:0030834	regulation of actin filament depolymerization	0.0170454545454545	2	12	50	0.1666666666666666	0.04
+Tumor-down	GO:BP	GO:0030042	actin filament depolymerization	0.0170454545454545	2	12	55	0.1666666666666666	0.0363636363636363
+Tumor-down	GO:BP	GO:1901032	negative regulation of response to reactive oxygen species	0.0170454545454545	1	12	1	0.0833333333333333	1.0
+Tumor-down	GO:BP	GO:0110053	regulation of actin filament organization	0.0170454545454545	3	12	247	0.25	0.0121457489878542
+Tumor-down	GO:BP	GO:0099024	plasma membrane invagination	0.0170454545454545	2	12	53	0.1666666666666666	0.0377358490566037
+Tumor-down	GO:BP	GO:1903906	regulation of plasma membrane raft polarization	0.0170454545454545	1	12	1	0.0833333333333333	1.0

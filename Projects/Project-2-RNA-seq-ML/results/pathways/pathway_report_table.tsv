@@ -1,0 +1,215 @@
+Direction	source	native	name	p_value	intersection_size
+Tumor-up	GO:MF	GO:0008453	alanine-glyoxylate transaminase activity	0.0196055133080091	1
+Tumor-up	GO:MF	GO:0061797	pH-gated chloride channel activity	0.0196055133080091	1
+Tumor-up	GO:MF	GO:0008454	alpha-1,3-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity	0.0261290378020084	1
+Tumor-up	GO:MF	GO:0004735	pyrroline-5-carboxylate reductase activity	0.0261290378020084	1
+Tumor-up	GO:MF	GO:0106263	1-acylglycerophosphoserine O-acyltransferase activity	0.0261290378020084	1
+Tumor-up	GO:MF	GO:0106262	1-acylglycerophosphoethanolamine O-acyltransferase activity	0.0261290378020084	1
+Tumor-up	GO:MF	GO:0160128	pH-gated monoatomic ion channel activity	0.0279912394600153	1
+Tumor-up	GO:MF	GO:0047184	1-acylglycerophosphocholine O-acyltransferase activity	0.0348180234678605	1
+Tumor-up	GO:MF	GO:0070016	armadillo repeat domain binding	0.0348180234678605	1
+Tumor-up	GO:MF	GO:0047144	2-acylglycerol-3-phosphate O-acyltransferase activity	0.0352480127683242	1
+Tumor-up	GO:BP	GO:1901862	negative regulation of muscle tissue development	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0090673	endothelial cell-matrix adhesion	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0072093	metanephric renal vesicle formation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0072092	ureteric bud invasion	0.0372740012699171	1
+Tumor-up	GO:BP	GO:1904906	positive regulation of endothelial cell-matrix adhesion	0.0372740012699171	1
+Tumor-up	GO:BP	GO:1902262	apoptotic process involved in blood vessel morphogenesis	0.0372740012699171	1
+Tumor-up	GO:BP	GO:1904904	regulation of endothelial cell-matrix adhesion	0.0372740012699171	1
+Tumor-up	GO:BP	GO:1902913	positive regulation of neuroepithelial cell differentiation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:1901329	regulation of odontoblast differentiation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:1902732	positive regulation of chondrocyte proliferation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:1901331	positive regulation of odontoblast differentiation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0060033	anatomical structure regression	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0071864	positive regulation of cell proliferation in bone marrow	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0061153	trachea gland development	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0061152	trachea submucosa development	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0072033	renal vesicle formation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0072283	metanephric renal vesicle morphogenesis	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0071839	apoptotic process in bone marrow cell	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0071838	cell proliferation in bone marrow	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0060677	ureteric bud elongation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0048635	negative regulation of muscle organ development	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0048341	paraxial mesoderm formation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0055129	L-proline biosynthetic process	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0071863	regulation of cell proliferation in bone marrow	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0071866	negative regulation of apoptotic process in bone marrow cell	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0060710	chorio-allantoic fusion	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0046645	positive regulation of gamma-delta T cell activation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0071865	regulation of apoptotic process in bone marrow cell	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0002681	somatic recombination of T cell receptor gene segments	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0009084	L-glutamine family amino acid biosynthetic process	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0002568	somatic diversification of T cell receptor genes	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0021861	forebrain radial glial cell differentiation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0048340	paraxial mesoderm morphogenesis	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0036150	phosphatidylserine acyl-chain remodeling	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0036152	phosphatidylethanolamine acyl-chain remodeling	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0045586	regulation of gamma-delta T cell differentiation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0042492	gamma-delta T cell differentiation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0046643	regulation of gamma-delta T cell activation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0006560	L-proline metabolic process	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0045843	negative regulation of striated muscle tissue development	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0032713	negative regulation of interleukin-4 production	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0032696	negative regulation of interleukin-13 production	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0033153	T cell receptor V(D)J recombination	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0032714	negative regulation of interleukin-5 production	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0030854	positive regulation of granulocyte differentiation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0030223	neutrophil differentiation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0045588	positive regulation of gamma-delta T cell differentiation	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0046487	glyoxylate metabolic process	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0021943	formation of radial glial scaffolds	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0021932	hindbrain radial glia guided cell migration	0.0372740012699171	1
+Tumor-up	GO:BP	GO:0021873	forebrain neuroblast division	0.0372740012699171	1
+Tumor-up	GO:MF	GO:0045295	gamma-catenin binding	0.0391470108531658	1
+Tumor-up	GO:MF	GO:0070742	C2H2 zinc finger domain binding	0.0391470108531658	1
+Tumor-up	REAC	REAC:R-HSA-9796292	Formation of axial mesoderm	0.0409711748012513	1
+Tumor-up	REAC	REAC:R-HSA-4411364	Binding of TCF/LEF:CTNNB1 to target gene promoters	0.0409711748012513	1
+Tumor-up	REAC	REAC:R-HSA-975577	N-Glycan antennae elongation	0.0409711748012513	1
+Tumor-up	REAC	REAC:R-HSA-8964539	Glutamate and glutamine metabolism	0.0409711748012513	1
+Tumor-up	REAC	REAC:R-HSA-8951430	RUNX3 regulates WNT signaling	0.0409711748012513	1
+Tumor-up	REAC	REAC:R-HSA-4641265	Repression of WNT target genes	0.0409711748012513	1
+Tumor-up	REAC	REAC:R-HSA-9754189	Germ layer formation at gastrulation	0.0409711748012513	1
+Tumor-up	REAC	REAC:R-HSA-9825892	Regulation of MITF-M-dependent genes involved in cell cycle and proliferation	0.0422215984978364	1
+Tumor-up	REAC	REAC:R-HSA-975576	N-glycan antennae elongation in the medial/trans-Golgi	0.0422215984978364	1
+Tumor-up	REAC	REAC:R-HSA-9733709	Cardiogenesis	0.0422215984978364	1
+Tumor-up	REAC	REAC:R-HSA-1482839	Acyl chain remodelling of PE	0.0422215984978364	1
+Tumor-up	REAC	REAC:R-HSA-1482788	Acyl chain remodelling of PC	0.0422215984978364	1
+Tumor-up	GO:BP	GO:0021535	cell migration in hindbrain	0.0425890576771628	1
+Tumor-up	GO:BP	GO:0036151	phosphatidylcholine acyl-chain remodeling	0.0425890576771628	1
+Tumor-up	GO:BP	GO:1903377	negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	0.0425890576771628	1
+Tumor-up	GO:BP	GO:0022409	positive regulation of cell-cell adhesion	0.0425890576771628	2
+Tumor-up	GO:BP	GO:0060019	radial glial cell differentiation	0.0425890576771628	1
+Tumor-up	GO:BP	GO:0060562	epithelial tube morphogenesis	0.0425890576771628	2
+Tumor-up	GO:BP	GO:0072077	renal vesicle morphogenesis	0.0425890576771628	1
+Tumor-up	GO:BP	GO:0032634	interleukin-5 production	0.0428997254929782	1
+Tumor-up	GO:BP	GO:0072087	renal vesicle development	0.0428997254929782	1
+Tumor-up	GO:BP	GO:0055057	neuroblast division	0.0428997254929782	1
+Tumor-up	GO:BP	GO:0032674	regulation of interleukin-5 production	0.0428997254929782	1
+Tumor-up	GO:MF	GO:0140103	catalytic activity, acting on a glycoprotein	0.0443336762733995	1
+Tumor-up	GO:MF	GO:0008301	DNA binding, bending	0.0443336762733995	1
+Tumor-up	GO:MF	GO:0016646	oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor	0.0443336762733995	1
+Tumor-up	GO:BP	GO:0030852	regulation of granulocyte differentiation	0.0452276863878395	1
+Tumor-up	GO:MF	GO:0016769	transferase activity, transferring nitrogenous groups	0.0458529217563948	1
+Tumor-up	GO:MF	GO:0099095	ligand-gated monoatomic anion channel activity	0.0458529217563948	1
+Tumor-up	GO:MF	GO:0016411	acylglycerol O-acyltransferase activity	0.0458529217563948	1
+Tumor-up	GO:MF	GO:0071617	lysophospholipid acyltransferase activity	0.0458529217563948	1
+Tumor-up	GO:MF	GO:0003841	1-acylglycerol-3-phosphate O-acyltransferase activity	0.0458529217563948	1
+Tumor-up	GO:MF	GO:0008483	transaminase activity	0.0458529217563948	1
+Tumor-up	GO:MF	GO:0016645	oxidoreductase activity, acting on the CH-NH group of donors	0.0458529217563948	1
+Tumor-up	GO:MF	GO:0042171	lysophosphatidic acid acyltransferase activity	0.0458529217563948	1
+Tumor-up	GO:BP	GO:0033151	V(D)J recombination	0.0460431688529051	1
+Tumor-up	GO:BP	GO:0048339	paraxial mesoderm development	0.0460431688529051	1
+Tumor-up	GO:BP	GO:0071895	odontoblast differentiation	0.0460431688529051	1
+Tumor-up	GO:BP	GO:0060438	trachea development	0.0480936776513189	1
+Tumor-up	GO:BP	GO:0032616	interleukin-13 production	0.0480936776513189	1
+Tumor-up	GO:BP	GO:0046629	gamma-delta T cell activation	0.0480936776513189	1
+Tumor-up	GO:BP	GO:0072273	metanephric nephron morphogenesis	0.0480936776513189	1
+Tumor-up	GO:BP	GO:0006658	phosphatidylserine metabolic process	0.0480936776513189	1
+Tumor-up	GO:BP	GO:0043586	tongue development	0.0480936776513189	1
+Tumor-up	GO:BP	GO:0043923	host-mediated activation of viral transcription	0.0480936776513189	1
+Tumor-up	GO:BP	GO:1903376	regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	0.0480936776513189	1
+Tumor-up	GO:BP	GO:0032656	regulation of interleukin-13 production	0.0480936776513189	1
+Tumor-up	GO:BP	GO:0060713	labyrinthine layer morphogenesis	0.0498191090318609	1
+Tumor-up	GO:BP	GO:0006491	N-glycan processing	0.0498191090318609	1
+Tumor-up	GO:BP	GO:0021542	dentate gyrus development	0.0498191090318609	1
+Tumor-up	GO:BP	GO:0036480	neuron intrinsic apoptotic signaling pathway in response to oxidative stress	0.0498191090318609	1
+Tumor-up	GO:BP	GO:0060561	apoptotic process involved in morphogenesis	0.0498191090318609	1
+Tumor-down	GO:BP	GO:0032272	negative regulation of protein polymerization	0.0037151360382078	3
+Tumor-down	GO:BP	GO:0030837	negative regulation of actin filament polymerization	0.0037151360382078	3
+Tumor-down	GO:BP	GO:0030041	actin filament polymerization	0.0082437777973483	3
+Tumor-down	GO:BP	GO:0008064	regulation of actin polymerization or depolymerization	0.0082437777973483	3
+Tumor-down	GO:BP	GO:0030832	regulation of actin filament length	0.0082437777973483	3
+Tumor-down	GO:BP	GO:0031333	negative regulation of protein-containing complex assembly	0.0082437777973483	3
+Tumor-down	GO:BP	GO:0051494	negative regulation of cytoskeleton organization	0.0082437777973483	3
+Tumor-down	GO:BP	GO:0030833	regulation of actin filament polymerization	0.0082437777973483	3
+Tumor-down	GO:BP	GO:1902904	negative regulation of supramolecular fiber organization	0.0082437777973483	3
+Tumor-down	GO:BP	GO:0008154	actin polymerization or depolymerization	0.0121334410716045	3
+Tumor-down	GO:BP	GO:0032271	regulation of protein polymerization	0.0131854253702893	3
+Tumor-down	GO:BP	GO:0051693	actin filament capping	0.0134148317052306	2
+Tumor-down	GO:BP	GO:0030835	negative regulation of actin filament depolymerization	0.0152221014279214	2
+Tumor-down	GO:BP	GO:0045010	actin nucleation	0.0170454545454545	2
+Tumor-down	GO:BP	GO:0030834	regulation of actin filament depolymerization	0.0170454545454545	2
+Tumor-down	GO:BP	GO:0030042	actin filament depolymerization	0.0170454545454545	2
+Tumor-down	GO:BP	GO:1901032	negative regulation of response to reactive oxygen species	0.0170454545454545	1
+Tumor-down	GO:BP	GO:0110053	regulation of actin filament organization	0.0170454545454545	3
+Tumor-down	GO:BP	GO:0099024	plasma membrane invagination	0.0170454545454545	2
+Tumor-down	GO:BP	GO:1903906	regulation of plasma membrane raft polarization	0.0170454545454545	1
+Tumor-down	GO:BP	GO:0046210	nitric oxide catabolic process	0.0170454545454545	1
+Tumor-down	GO:BP	GO:0044858	plasma membrane raft polarization	0.0170454545454545	1
+Tumor-down	GO:BP	GO:0051129	negative regulation of cellular component organization	0.0171930216648404	4
+Tumor-down	GO:BP	GO:0051258	protein polymerization	0.0171930216648404	3
+Tumor-down	GO:BP	GO:0010324	membrane invagination	0.0171930216648404	2
+Tumor-down	GO:BP	GO:1903921	regulation of protein processing in phagocytic vesicle	0.0208265254589728	1
+Tumor-down	GO:BP	GO:2000490	negative regulation of hepatic stellate cell activation	0.0208265254589728	1
+Tumor-down	GO:BP	GO:1901880	negative regulation of protein depolymerization	0.0208265254589728	2
+Tumor-down	GO:BP	GO:0045862	positive regulation of proteolysis	0.0208265254589728	2
+Tumor-down	GO:BP	GO:0043242	negative regulation of protein-containing complex disassembly	0.0208265254589728	2
+Tumor-down	GO:BP	GO:1903923	positive regulation of protein processing in phagocytic vesicle	0.0208265254589728	1
+Tumor-down	GO:BP	GO:0032535	regulation of cellular component size	0.0208265254589728	3
+Tumor-down	GO:BP	GO:0032956	regulation of actin cytoskeleton organization	0.0208265254589728	3
+Tumor-down	GO:BP	GO:0044856	plasma membrane raft localization	0.0208265254589728	1
+Tumor-down	GO:BP	GO:1900756	protein processing in phagocytic vesicle	0.0208265254589728	1
+Tumor-down	GO:BP	GO:0044855	plasma membrane raft distribution	0.0208265254589728	1
+Tumor-down	GO:BP	GO:0010639	negative regulation of organelle organization	0.0225019111592637	3
+Tumor-down	GO:BP	GO:1901879	regulation of protein depolymerization	0.0233289811074382	2
+Tumor-down	GO:BP	GO:0032970	regulation of actin filament-based process	0.02338361553861	3
+Tumor-down	GO:BP	GO:1902903	regulation of supramolecular fiber organization	0.0235493139665415	3
+Tumor-down	GO:MF	GO:0141118	nitric oxide dioxygenase activity, heme protein as donor	0.0242395437262357	1
+Tumor-down	GO:MF	GO:0047888	fatty acid peroxidase activity	0.0242395437262357	1
+Tumor-down	GO:MF	GO:0016675	oxidoreductase activity, acting on a heme group of donors	0.0242395437262357	1
+Tumor-down	GO:BP	GO:0001560	regulation of cell growth by extracellular stimulus	0.0267682117902936	1
+Tumor-down	GO:BP	GO:0014891	striated muscle atrophy	0.0267682117902936	1
+Tumor-down	GO:MF	GO:0070025	carbon monoxide binding	0.0272516680868864	1
+Tumor-down	GO:MF	GO:0004999	vasoactive intestinal polypeptide receptor activity	0.0272516680868864	1
+Tumor-down	GO:MF	GO:0036313	phosphatidylinositol 3-kinase catalytic subunit binding	0.0272516680868864	1
+Tumor-down	GO:MF	GO:0004096	catalase activity	0.0272516680868864	1
+Tumor-down	GO:MF	GO:0001634	pituitary adenylate cyclase-activating polypeptide receptor activity	0.0272516680868864	1
+Tumor-down	GO:MF	GO:0016721	oxidoreductase activity, acting on superoxide radicals as acceptor	0.0290589483495003	1
+Tumor-down	GO:MF	GO:0004784	superoxide dismutase activity	0.0290589483495003	1
+Tumor-down	GO:BP	GO:0043254	regulation of protein-containing complex assembly	0.0294800782563121	3
+Tumor-down	GO:BP	GO:0007015	actin filament organization	0.0325473099894598	3
+Tumor-down	GO:BP	GO:1902174	positive regulation of keratinocyte apoptotic process	0.0325473099894598	1
+Tumor-down	GO:BP	GO:0001766	membrane raft polarization	0.0325473099894598	1
+Tumor-down	GO:BP	GO:0051261	protein depolymerization	0.0325473099894598	2
+Tumor-down	GO:BP	GO:0090066	regulation of anatomical structure size	0.0338337134368177	3
+Tumor-down	GO:BP	GO:0043244	regulation of protein-containing complex disassembly	0.035203987593518	2
+Tumor-down	GO:BP	GO:0051694	pointed-end actin filament capping	0.0374510124214282	1
+Tumor-down	GO:BP	GO:2000489	regulation of hepatic stellate cell activation	0.0415986418358914	1
+Tumor-down	GO:BP	GO:1903903	regulation of establishment of T cell polarity	0.0415986418358914	1
+Tumor-down	GO:BP	GO:0097283	keratinocyte apoptotic process	0.0415986418358914	1
+Tumor-down	GO:BP	GO:1902172	regulation of keratinocyte apoptotic process	0.0415986418358914	1
+Tumor-down	GO:BP	GO:0007009	plasma membrane organization	0.0416255825225286	2
+Tumor-down	GO:BP	GO:0030162	regulation of proteolysis	0.0420211914314808	2
+Tumor-down	GO:MF	GO:0005344	oxygen carrier activity	0.0423361138765129	1
+Tumor-down	GO:MF	GO:0098809	nitrite reductase activity	0.0423361138765129	1
+Tumor-down	GO:BP	GO:0048519	negative regulation of biological process	0.0428385195520253	8
+Tumor-down	GO:BP	GO:0051493	regulation of cytoskeleton organization	0.0428385195520253	3
+Tumor-down	GO:BP	GO:0014889	muscle atrophy	0.0436643056844035	1
+Tumor-down	GO:BP	GO:0036089	cleavage furrow formation	0.0436643056844035	1
+Tumor-down	GO:BP	GO:0060732	positive regulation of inositol phosphate biosynthetic process	0.0454529976638758	1
+Tumor-down	GO:BP	GO:1902905	positive regulation of supramolecular fiber organization	0.0454529976638758	2
+Tumor-down	GO:BP	GO:0035733	hepatic stellate cell activation	0.0454529976638758	1
+Tumor-down	GO:BP	GO:0015671	oxygen transport	0.0454529976638758	1
+Tumor-down	GO:BP	GO:0031580	membrane raft distribution	0.0454529976638758	1
+Tumor-down	GO:BP	GO:0032966	negative regulation of collagen biosynthetic process	0.0454529976638758	1
+Tumor-down	GO:BP	GO:0000302	response to reactive oxygen species	0.0467526280187987	2
+Tumor-down	GO:BP	GO:0010713	negative regulation of collagen metabolic process	0.0467526280187987	1
+Tumor-down	GO:BP	GO:0097017	renal protein absorption	0.0467526280187987	1
+Tumor-down	GO:BP	GO:0048484	enteric nervous system development	0.0467526280187987	1
+Tumor-down	GO:BP	GO:0051665	membrane raft localization	0.0467526280187987	1
+Tumor-down	GO:BP	GO:0141163	positive regulation of cAMP/PKA signal transduction	0.0467526280187987	1
+Tumor-down	GO:BP	GO:1901031	regulation of response to reactive oxygen species	0.0473289709107766	1
+Tumor-down	GO:BP	GO:0051495	positive regulation of cytoskeleton organization	0.0473289709107766	2
+Tumor-down	GO:BP	GO:0044351	macropinocytosis	0.0473289709107766	1
+Tumor-down	GO:BP	GO:0017038	protein import	0.0473289709107766	1
+Tumor-down	GO:BP	GO:0010524	positive regulation of calcium ion transport into cytosol	0.0473289709107766	1
+Tumor-down	GO:BP	GO:0010764	negative regulation of fibroblast migration	0.0473289709107766	1
+Tumor-down	GO:BP	GO:0010919	regulation of inositol phosphate biosynthetic process	0.0473289709107766	1
+Tumor-down	REAC	REAC:R-HSA-1475029	Reversible hydration of carbon dioxide	0.0488698618363413	1
+Tumor-down	REAC	REAC:R-HSA-187015	Activation of TRKA receptors	0.0488698618363413	1
+Tumor-down	REAC	REAC:R-HSA-1237044	Erythrocytes take up carbon dioxide and release oxygen	0.0488698618363413	1
+Tumor-down	REAC	REAC:R-HSA-1247673	Erythrocytes take up oxygen and release carbon dioxide	0.0488698618363413	1
+Tumor-down	REAC	REAC:R-HSA-8981607	Intracellular oxygen transport	0.0488698618363413	1
+Tumor-down	REAC	REAC:R-HSA-187024	NGF-independant TRKA activation	0.0488698618363413	1
+Tumor-down	REAC	REAC:R-HSA-1480926	O2/CO2 exchange in erythrocytes	0.0488698618363413	1
+Tumor-down	REAC	REAC:R-HSA-203615	eNOS activation	0.0488698618363413	1

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+*.log
+*.tmp
+*.bak
+Snakefile.backup
+requirements_local_backup.txt

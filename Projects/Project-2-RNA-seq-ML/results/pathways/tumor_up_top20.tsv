@@ -1,0 +1,21 @@
+Direction	source	native	name	p_value	intersection_size	query_size	term_size	precision	recall
+Tumor-up	GO:MF	GO:0008453	alanine-glyoxylate transaminase activity	0.0196055133080091	1	6	1	0.1666666666666666	1.0
+Tumor-up	GO:MF	GO:0061797	pH-gated chloride channel activity	0.0196055133080091	1	6	1	0.1666666666666666	1.0
+Tumor-up	GO:MF	GO:0008454	alpha-1,3-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity	0.0261290378020084	1	6	2	0.1666666666666666	0.5
+Tumor-up	GO:MF	GO:0004735	pyrroline-5-carboxylate reductase activity	0.0261290378020084	1	6	4	0.1666666666666666	0.25
+Tumor-up	GO:MF	GO:0106263	1-acylglycerophosphoserine O-acyltransferase activity	0.0261290378020084	1	6	4	0.1666666666666666	0.25
+Tumor-up	GO:MF	GO:0106262	1-acylglycerophosphoethanolamine O-acyltransferase activity	0.0261290378020084	1	6	4	0.1666666666666666	0.25
+Tumor-up	GO:MF	GO:0160128	pH-gated monoatomic ion channel activity	0.0279912394600153	1	6	5	0.1666666666666666	0.2
+Tumor-up	GO:MF	GO:0047184	1-acylglycerophosphocholine O-acyltransferase activity	0.0348180234678605	1	6	8	0.1666666666666666	0.125
+Tumor-up	GO:MF	GO:0070016	armadillo repeat domain binding	0.0348180234678605	1	6	8	0.1666666666666666	0.125
+Tumor-up	GO:MF	GO:0047144	2-acylglycerol-3-phosphate O-acyltransferase activity	0.0352480127683242	1	6	9	0.1666666666666666	0.1111111111111111
+Tumor-up	GO:BP	GO:1901862	negative regulation of muscle tissue development	0.0372740012699171	1	6	10	0.1666666666666666	0.1
+Tumor-up	GO:BP	GO:0090673	endothelial cell-matrix adhesion	0.0372740012699171	1	6	9	0.1666666666666666	0.1111111111111111
+Tumor-up	GO:BP	GO:0072093	metanephric renal vesicle formation	0.0372740012699171	1	6	3	0.1666666666666666	0.3333333333333333
+Tumor-up	GO:BP	GO:0072092	ureteric bud invasion	0.0372740012699171	1	6	2	0.1666666666666666	0.5
+Tumor-up	GO:BP	GO:1904906	positive regulation of endothelial cell-matrix adhesion	0.0372740012699171	1	6	7	0.1666666666666666	0.1428571428571428
+Tumor-up	GO:BP	GO:1902262	apoptotic process involved in blood vessel morphogenesis	0.0372740012699171	1	6	4	0.1666666666666666	0.25
+Tumor-up	GO:BP	GO:1904904	regulation of endothelial cell-matrix adhesion	0.0372740012699171	1	6	8	0.1666666666666666	0.125
+Tumor-up	GO:BP	GO:1902913	positive regulation of neuroepithelial cell differentiation	0.0372740012699171	1	6	8	0.1666666666666666	0.125
+Tumor-up	GO:BP	GO:1901329	regulation of odontoblast differentiation	0.0372740012699171	1	6	9	0.1666666666666666	0.1111111111111111
+Tumor-up	GO:BP	GO:1902732	positive regulation of chondrocyte proliferation	0.0372740012699171	1	6	8	0.1666666666666666	0.125

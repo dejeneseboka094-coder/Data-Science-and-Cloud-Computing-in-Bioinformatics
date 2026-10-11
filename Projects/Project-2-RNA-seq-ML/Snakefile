@@ -1,0 +1,163 @@
+configfile: "config.yaml"
+
+
+rule all:
+    input:
+        # Machine learning
+        "results/ml/cv_fold_results.tsv",
+        "results/ml/cv_summary.tsv",
+        "results/ml/final_selected_genes.tsv",
+        "results/ml/test_metrics.tsv",
+        "results/ml/test_predictions.tsv",
+        "results/ml/feature_importance.tsv",
+        "results/ml/consensus_genes.tsv",
+        "results/ml/model_info.json",
+
+        # Trained models
+        "models/final_feature_selector.joblib",
+        "models/final_model.joblib",
+
+        # Feature-selection stability
+        "results/ml/cv_feature_selection.tsv",
+        "results/ml/feature_selection_stability.tsv",
+        "results/ml/stable_genes.tsv",
+
+        # Consensus-gene annotation and validation
+        "results/ml/consensus_gene_annotation.tsv",
+        "results/ml/consensus_gene_expression_validation.tsv",
+        "results/ml/final_consensus_gene_summary.tsv",
+
+        # Figures
+        "results/ml/consensus_gene_heatmap.png",
+        "results/ml/paired_top_consensus_genes.png",
+
+        # Pathway analysis
+        "results/pathways/tumor_up_enrichment.tsv",
+        "results/pathways/tumor_down_enrichment.tsv",
+        "results/pathways/pathway_enrichment_summary.tsv",
+        "results/pathways/pathway_report_table.tsv"
+
+
+rule train_models:
+    input:
+        metadata="data/processed/ml_metadata.tsv",
+        expression="data/processed/paired_log_cpm.tsv"
+    output:
+        cv_results="results/ml/cv_fold_results.tsv",
+        cv_summary="results/ml/cv_summary.tsv",
+        final_selected="results/ml/final_selected_genes.tsv",
+        test_metrics="results/ml/test_metrics.tsv",
+        test_predictions="results/ml/test_predictions.tsv",
+        feature_importance="results/ml/feature_importance.tsv",
+        consensus="results/ml/consensus_genes.tsv",
+        model_info="results/ml/model_info.json",
+        feature_selector="models/final_feature_selector.joblib",
+        model="models/final_model.joblib"
+    threads: 8
+    shell:
+        """
+        python scripts/train_models.py
+        """
+
+
+rule feature_stability:
+    input:
+        expression="data/processed/paired_log_cpm.tsv",
+        metadata="data/processed/ml_metadata.tsv"
+    output:
+        selection="results/ml/cv_feature_selection.tsv",
+        stability="results/ml/feature_selection_stability.tsv",
+        stable="results/ml/stable_genes.tsv"
+    shell:
+        """
+        python scripts/analyze_feature_stability.py
+        """
+
+
+rule annotate_consensus:
+    input:
+        "results/ml/consensus_genes.tsv"
+    output:
+        "results/ml/consensus_gene_annotation.tsv"
+    shell:
+        """
+        python scripts/annotate_consensus_genes.py
+        """
+
+
+rule validate_consensus:
+    input:
+        consensus="results/ml/consensus_genes.tsv",
+        expression="data/processed/paired_log_cpm.tsv",
+        metadata="data/processed/paired_metadata.tsv"
+    output:
+        "results/ml/consensus_gene_expression_validation.tsv"
+    shell:
+        """
+        python scripts/validate_consensus_genes.py
+        """
+
+
+rule final_gene_summary:
+    input:
+        annotation="results/ml/consensus_gene_annotation.tsv",
+        validation="results/ml/consensus_gene_expression_validation.tsv",
+        importance="results/ml/feature_importance.tsv"
+    output:
+        "results/ml/final_consensus_gene_summary.tsv"
+    shell:
+        """
+        python scripts/create_final_gene_summary.py
+        """
+
+
+rule pathway_enrichment:
+    input:
+        validation="results/ml/consensus_gene_expression_validation.tsv",
+        counts="data/processed/filtered_counts.tsv"
+    output:
+        up="results/pathways/tumor_up_enrichment.tsv",
+        down="results/pathways/tumor_down_enrichment.tsv"
+    shell:
+        """
+        python scripts/pathway_enrichment.py
+        """
+
+
+rule pathway_summary:
+    input:
+        up="results/pathways/tumor_up_enrichment.tsv",
+        down="results/pathways/tumor_down_enrichment.tsv"
+    output:
+        summary="results/pathways/pathway_enrichment_summary.tsv",
+        report="results/pathways/pathway_report_table.tsv"
+    shell:
+        """
+        python scripts/summarize_pathways.py
+        """
+
+
+rule consensus_heatmap:
+    input:
+        summary="results/ml/final_consensus_gene_summary.tsv",
+        expression="data/processed/paired_log_cpm.tsv",
+        metadata="data/processed/paired_metadata.tsv"
+    output:
+        "results/ml/consensus_gene_heatmap.png"
+    shell:
+        """
+        python scripts/plot_consensus_heatmap.py
+        """
+
+
+rule paired_consensus_plot:
+    input:
+        summary="results/ml/final_consensus_gene_summary.tsv",
+        expression="data/processed/paired_log_cpm.tsv",
+        metadata="data/processed/paired_metadata.tsv"
+    output:
+        "results/ml/paired_top_consensus_genes.png"
+    shell:
+        """
+        python scripts/plot_paired_consensus_genes.py
+        """
